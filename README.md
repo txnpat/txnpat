@@ -1,5 +1,8 @@
 
-<div align="center"> <img src="https://i.pinimg.com/originals/ee/ab/00/eeab009c82c074366e54e4e0622e736c.gif"> </div>
+
+<div align="center"> 
+  <img src="https://i.pinimg.com/originals/ee/ab/00/eeab009c82c074366e54e4e0622e736c.gif" width="500" height="300"> 
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?fontUbuntu&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tan+Phat!;Welcome+To+My+Github+Profile!" />
