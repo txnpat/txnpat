@@ -32,7 +32,7 @@
 
 
 <p align="center">
- <img src="https://i.pinimg.com/originals/9a/3e/d9/9a3ed9a334a51255a11a1a36f8819fa2.gif" width="500" height="300"> 
+ <img src="https://i.pinimg.com/originals/05/1b/48/051b48ad3ad70723d3ae90a655174ffa.gif" width="500" height="300"> 
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
